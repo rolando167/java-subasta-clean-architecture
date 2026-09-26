@@ -6,7 +6,7 @@ mode 80, 25
 :menu
 cls
 echo ============================
-echo    MENU DE GIT - INTRANET
+echo    MENU DE GIT - MATRIX
 echo ============================
 echo 1. Subir todos los cambios a GitHub
 echo 2. Ver Cambios Git
