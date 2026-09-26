@@ -1,0 +1,26 @@
+
+
+-------------------------------------------------------
+Dependencies esenciales para arrancar:
+
+Spring Web (para crear las APIs REST - Módulo 3)
+
+Spring Data JPA (para conectar con PostgreSQL - Módulo 4)
+
+PostgreSQL Driver (el conector de la base de datos)
+
+Spring Data Redis (para el caché y rankings en tiempo real)
+
+-------------------------------------------------------
+
+1.- Crear las entidades
+2.- Interfaces repositorios
+3.- modificar application properties
+4.- Entidades
+
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+
+
